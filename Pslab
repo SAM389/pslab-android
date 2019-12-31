@@ -1,0 +1,7 @@
+1. First, a fall uses a different color for different work so the user can identify it very easily. 
+2. There are many options which do not work on the Android app .you should provide more function like including maths formula.
+3. The presentation of the accelerometer should be more attractive.
+4. Gas sensor and dust sensor are not used fully for Android phones because we need an additional instrument for that.
+
+The issue
+The accelerometer is not working properly when I am standing still then also it shows high reading 
